@@ -1,7 +1,7 @@
 # node-rabbitmq-event
 A simple distributed AMQP multi-channel event emitter.
 ## Synopsis
-rabbitmq-event simple and lightweight evet emitter which supports multiple queues.
+rabbitmq-event simple and lightweight event emitter which supports multiple queues.
 ## Install
 ```
 npm install rabbitmq-event
@@ -68,5 +68,5 @@ Disconnect pub/sub sessions
 ## PS
 Additional thanks to @egorfine, initially this module born from redis-emitter a while ago.
 
-## Licemse
+## License
 MIT
